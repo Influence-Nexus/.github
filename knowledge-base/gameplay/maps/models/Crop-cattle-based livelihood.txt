@@ -1,0 +1,22 @@
+	C1 Forage	C2 Garden Crop harvest	C3 Damage-causing animals outside the park	C4 Fuzzy boundaries	C5 Cattle in household	C6 Small stock	C7 Available cash	C8 Food in household	C9 Donor food 	C10 Cattle deaths	C11 Cattle theft	C12 Total harvest	C13 Fees	C14 Poaching	C15 Use of Zhombwe tubers	C16 External inputs	C17 Institutions	C18 Upland Crop harvest	C19 Vlei Crop harvest	C20 Availability of labor	C21 Drought
+C1 Forage	0	0	0	0	0	-0.25	0	0	0	-0.75	0	0	0	-0.75	0	0	0	0	0	0	0
+C2 Garden Crop harvest	0	0	0	0	0	0	0.25	0	0	0	0	0.25	0	0	0	0	0	0	0	0	0
+C3 Damage-causing animals outside the park	0	0	0	0	-0.25	0	0	0	0	0	0	-0.25	0	0	0	0	0	0	0	0	0
+C4 Fuzzy boundaries	0	0	0	0	0	0	0.25	0.25	0	0	0.25	0	0	0	0	0.25	0	0	0	-0.25	0
+C5 Cattle in household	-0.25	0	0	0	0	0	0	0.25	0	0	0	0	0	0	0	-0.25	0	0	0	0	0
+C6 Small stock	0	0	0	0	0	0	0.75	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C7 Available cash	0	0	0	0	0.25	0.25	0	0.5	0	0	0	0	0	0	0	0	0	0	0	0	0
+C8 Food in household	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C9 Donor food 	0	0	0	0	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0
+C10 Cattle deaths	0	0	0	0	-0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C11 Cattle theft	0	0	0	0	-0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C12 Total harvest	0.25	0	0	0	0.25	0	0.5	0.75	-1	0	-0.25	0	0	-0.5	0	0	0	0	0	0.25	0
+C13 Fees	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C14 Poaching	0	0	0	0	0	0	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+C15 Use of Zhombwe tubers	0.5	0	0	0	0	0	0	0	0	-0.5	0	0	0	0	0	0	0	0	0	0	0
+C16 External inputs	0	0	0	0	0	0	-0.75	0	0	0	0	0	0	0	0	0	0	0.75	0.5	0	0
+C17 Institutions	0	0	0	0	0.25	0	0	0	0	0	-0.25	0	-0.25	-0.25	0	0.75	0	0	0	0.5	0
+C18 Upland Crop harvest	0	0	0	0	0	0	0	0	0	0	0	0.75	0	0	0	0	0	0	0	0	0
+C19 Vlei Crop harvest	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+C20 Availability of labor	0	0.5	0	0	0	0	0	0	0	0	0	0.5	0	0	0	0	0	0	0	0	0
+C21 Drought	-0.75	0.25	0	0	0	0	0	0	0	0	0	0	0	0	0.75	0	0	1	-0.25	0	0
